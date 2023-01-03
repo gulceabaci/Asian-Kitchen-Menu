@@ -2,6 +2,7 @@
 
 - This is a personal project.   
 - I made restaurant menu and filter it by country.  
+- Thank you for giving a time..
 
 
 ### With this project I've learned:  
